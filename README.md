@@ -1,7 +1,8 @@
 # E-commerce-website-HTML-CSS
-This website is the made by using the HTML &amp; CSS 
+This website is the made by using the HTML & CSS 
 
-this what app looks like 
+This what site looks like 
+
 ###https://quizzical-allen-cf1a95.netlify.app
 
-I have hosted on the Notlify 
+I had hosted on the Notlify 
